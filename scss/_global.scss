@@ -15,6 +15,14 @@ a {
   }
 }
 
+.col-centered {
+  justify-content: center;
+}
+
+.exp-logo {
+  max-width: 60px;
+}
+
 .text-primary {
   color: $primary !important;
 }
